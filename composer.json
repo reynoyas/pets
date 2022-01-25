@@ -1,0 +1,16 @@
+{
+  "name": "328/pets",
+  "authors": [
+    {
+      "name": "devin leyba",
+      "email": "leyba-brown.devin@student.greenriver.edu"
+    },
+    {
+      "name": "Yasaira Reynoso",
+      "email": "reynoso.yasaira@student.greenriver.edu"
+    }
+  ],
+  "require": {
+    "bcosca/fatfree-core": "dev-master"
+  }
+}
